@@ -4,6 +4,6 @@ import re
 
 def main(a):
 # Create function arguments a.
-    a=-6
+    a=-a
 # Return the negative value of a.
     return a
